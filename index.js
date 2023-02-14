@@ -1,5 +1,5 @@
 const { app } = require('electron');
-app.commandLine.appendSwitch('proxy-server', 'socks5://127.0.0.1:10808');
+app.commandLine.appendSwitch('proxy-server', 'socks5://127.0.0.1:10808');\\you can change ip:port to your own proxy address
 app.commandLine.appendSwitch('proxy-bypass-list', '<local>;*.baidu.com');
 class netproxy {
     name = 'net proxy setting';
