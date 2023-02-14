@@ -7,16 +7,16 @@ class netproxy {
     version = '1.0.0';
     author = 'BY';
   
-    env
-    win
+    //env
+    //win
   
     constructor(env) {
-        this.env = env
+        //this.env = env
         //this.debug('Loading Complete')
     }
   
-    async onReady(win) {
-        this.win = win
+    onReady(win) {
+        //this.win = win
         //this.debug('Ready')
     }
   
