@@ -1,1 +1,7 @@
-
+{
+    "name": "Cider_proxy_plugin",
+    "version": "1.0.0",
+    "main": "index.js",
+    "author": "BY",
+    "description": "set Cider use given proxy address"
+}
