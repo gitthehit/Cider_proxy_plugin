@@ -1,8 +1,8 @@
 # Cider_proxy_plugin
 
-** !!! Important !!! **
+**Important notes**
 
-**Please check IP and Ports in index.js first. If you cant launch cider app after install this plugin, you can delete this folder in cider plugins.**
+**Please check IP and Ports in index.js first. If you can't launch cider app after install this plugin, you can delete this folder manually.**
 
 You can set cider to an http/socks5 proxy by this plugin.
 
